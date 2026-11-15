@@ -1,0 +1,9 @@
+Package: com.jjlulz.dynamicisland
+Name: DynamicIsland
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Dynamic Island style now playing pill for iOS 12
+Maintainer: jjlulz
+Author: jjlulz
+Section: Tweaks
+Depends: mobilesubstrate
