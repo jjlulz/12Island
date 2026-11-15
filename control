@@ -1,6 +1,6 @@
 Package: com.jxyra1n.12island
 Name: 12Island
-Version: 0.2.0
+Version: 0.2.1
 Architecture: iphoneos-arm
 Description: Dynamic Island style now playing pill for iOS 12
 Maintainer: jxyra1n
